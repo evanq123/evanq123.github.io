@@ -2,7 +2,7 @@
 layout: post
 title:  "El Lenguaje de Código Utilizado (EN)"
 date:   2017-05-24 15:11:05 -0400
-categories: jekyll update
+categories: Plan
 ---
 This will be in English for readability purposes:
 
