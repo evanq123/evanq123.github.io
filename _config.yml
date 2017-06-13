@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Un blog sobre por qué aprendimos español y nuestras experiencias.
  Por Devin Boateng, Raghise Ghani , Evan Quach y Joshua Wang.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://evanq123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  evanq123
 
